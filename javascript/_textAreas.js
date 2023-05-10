@@ -8,7 +8,23 @@ const core = [
     "#txt2img_prompt > label > textarea",
     "#img2img_prompt > label > textarea",
     "#txt2img_neg_prompt > label > textarea",
-    "#img2img_neg_prompt > label > textarea"
+    "#img2img_neg_prompt > label > textarea",
+    "#MD-t2i-0-prompt > label > textarea",
+    "#MD-t2i-0-neg-prompt > label > input",
+    "#MD-t2i-1-prompt > label > textarea",
+    "#MD-t2i-1-neg-prompt > label > input",
+    "#MD-t2i-2-prompt > label > textarea",
+    "#MD-t2i-2-neg-prompt > label > input",
+    "#MD-t2i-3-prompt > label > textarea",
+    "#MD-t2i-3-neg-prompt > label > input",
+    "#MD-t2i-4-prompt > label > textarea",
+    "#MD-t2i-4-neg-prompt > label > input",
+    "#MD-t2i-5-prompt > label > textarea",
+    "#MD-t2i-5-neg-prompt > label > input",
+    "#MD-t2i-6-prompt > label > textarea",
+    "#MD-t2i-6-neg-prompt > label > input",
+    "#MD-t2i-7-prompt > label > textarea",
+    "#MD-t2i-7-neg-prompt > label > input"
 ];
 
 // Third party text area selectors
